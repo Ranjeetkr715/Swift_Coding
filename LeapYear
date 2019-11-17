@@ -1,6 +1,6 @@
 import Foundation
 
-class LeapYear
+public class LeapYear
 {
   func isLeapYear(Year : Int )
   {
